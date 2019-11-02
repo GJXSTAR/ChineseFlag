@@ -1,16 +1,16 @@
 
-var imagesList = ['images/1HAO.jpg',
-                 'images/2HAO.jpg',
-                 'images/3HAO.jpg',
-                 'images/4HAO.jpg',
-                 'images/5HAO.jpg',
-                 'images/CHEQI.jpg',
-                 'images/QIANZIQI.jpg',
-                 'images/ZHUOQI.jpg',
-                 'images/yingxiongjinianbei.jpg',
-                 'images/CHINA.jpg',
-                 'images/MOON.jpg',
-                 'images/greatwall.jpg',
+var imagesList = ['docs/images/1HAO.jpg',
+                 'docs/images/2HAO.jpg',
+                 'docs/images/3HAO.jpg',
+                 'docs/images/4HAO.jpg',
+                 'docs/images/5HAO.jpg',
+                 'docs/images/CHEQI.jpg',
+                 'docs/images/QIANZIQI.jpg',
+                 'docs/images/ZHUOQI.jpg',
+                 'docs/images/yingxiongjinianbei.jpg',
+                 'docs/images/CHINA.jpg',
+                 'docs/images/MOON.jpg',
+                 'docs/images/greatwall.jpg',
                  ];
 
 var body = document.getElementsByTagName('body')[0];
